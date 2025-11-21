@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Focus-QA%20%26%20Software%20Engineering-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Tech-PostgreSQL%20%7C%20React%20%7C%20TypeScript-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Tools-Visio%20%7C%20ClickUp%20%7C%20CRM-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-DSA%20%7C%20Testing%20%7C%20FullStack-red?style=flat-square" />
 </p>
 
-Welcome to my GitHub!  
+# Welcome to my GitHub! 
+
 I'm a Computer Science & Engineering graduate passionate about building useful systems, solving real problems, and continuously learning across software development, QA, and digital technologies.
 
 I bring a unique blend of **technical skills, customer experience, documentation expertise, and analytical thinking**—shaped through hands-on work in software processes, CRM operations, tele-sales leadership, and full-stack development projects.
@@ -131,6 +131,5 @@ A full-stack web application designed to streamline donor management, blood inve
 ---
 
 ## 🌟 Final Note  
-I'm always eager to collaborate on meaningful software projects, QA initiatives, or any opportunity where technology meets problem-solving.  
-Feel free to explore my repositories and connect with me!
+I'm always eager to collaborate on meaningful software projects, QA initiatives, or any opportunity where technology meets problem-solving.Feel free to explore my repositories and connect with me!
 
