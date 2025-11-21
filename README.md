@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Foyaj Ahmmad Farabi  
 **Client Service Executive | Aspiring Software & QA Engineer | Tech Enthusiast**
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Client%20Service%20Executive-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-QA%20%26%20Software%20Engineering-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tech-PostgreSQL%20%7C%20React%20%7C%20TypeScript-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-Visio%20%7C%20ClickUp%20%7C%20CRM-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-DSA%20%7C%20Testing%20%7C%20FullStack-red?style=flat-square" />
+</p>
 
 Welcome to my GitHub!  
 I'm a Computer Science & Engineering graduate passionate about building useful systems, solving real problems, and continuously learning across software development, QA, and digital technologies.
@@ -19,16 +26,6 @@ I bring a unique blend of **technical skills, customer experience, documentation
 - 🔍 Interested in **QA Engineering**, **Software Engineering**, **Digital Operations**, & **Product Workflows**
 
 ---
-## 🛡️ Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Client%20Service%20Executive-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-QA%20%26%20Software%20Engineering-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tech-PostgreSQL%20%7C%20React%20%7C%20TypeScript-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tools-Visio%20%7C%20ClickUp%20%7C%20CRM-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-DSA%20%7C%20Testing%20%7C%20FullStack-red?style=flat-square" />
-</p>
-
 
 ## 🛠️ Technical Skills
 
